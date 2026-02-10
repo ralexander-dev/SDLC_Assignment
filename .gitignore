@@ -1,0 +1,70 @@
+# Java class files
+*.class
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+hs_err_pid*.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.next
+pom.xml.bak
+pom.xml.versions
+pom.xml.releaseBackup
+release.properties
+# Maven Failsafe reports
+failsafe-reports/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+# External tool builders
+.externalToolBuilders/
+# Generated libs
+.cache/
+# Eclipse generated files
+org.eclipse.jdt.core.prefs
+org.eclipse.wst.common.component
+# STS
+.sts4-cache/
+
+# IntelliJ IDEA
+.idea/
+# BlueJ
+*.ctxt
+
+# NetBeans
+nbproject/private/
+build/
+# Classpath file (maybe not ignore if you commit it)
+# .classpath
+# Project file (maybe not ignore if you commit it)
+# .project
+# External tool builders
+# .externalToolBuilders/
+# Generated libs
+# libs/
+# NetBeans metadata
+# nb-configuration.xml
+# JDK reference
+# jrebel.sdk
+
+# VS Code
+.vscode/
+
+# Mac OS specific files
+.DS_Store
+# Windows specific files
+Thumbs.db
+# Linux specific files
+# *~
