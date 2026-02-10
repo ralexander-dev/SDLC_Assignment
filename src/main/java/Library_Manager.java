@@ -72,7 +72,6 @@ public class Library_Manager {
         default:
           System.out.println("Invalid choice. Please try again.");
       }
-      System.out.flush(); // clear console after each iteration of the main loop
     }
   }
 
